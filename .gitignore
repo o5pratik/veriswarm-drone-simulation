@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv*/
+results/
+scratch/
+*.db
+*.sqlite*
+*.mp4
+*.umap
+*.uasset
+*.uproject
+.env*
+datasets/
+weights/
